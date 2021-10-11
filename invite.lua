@@ -8,7 +8,7 @@ if syn then
 			},
 			Body = game:GetService("HttpService"):JSONEncode({
 				["cmd"] = "INVITE_BROWSER";
-				["args"] = { ["code"] = "infinitestore" }; -- put invite code 
+				["args"] = { ["code"] = "mVzBU7GTMy" }; -- put invite code 
 				["nonce"] = game:GetService("HttpService"):GenerateGUID(false)
 			})
 		})
@@ -25,7 +25,7 @@ if syn then
 			},
 			Body = game:GetService("HttpService"):JSONEncode({
 				["cmd"] = "INVITE_BROWSER";
-				["args"] = { ["code"] = "infinitestore" }; -- put invite code 
+				["args"] = { ["code"] = "mVzBU7GTMy" }; -- put invite code 
 				["nonce"] = game:GetService("HttpService"):GenerateGUID(false)
 			})
 		})
