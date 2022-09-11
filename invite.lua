@@ -25,7 +25,7 @@ if syn then
 			},
 			Body = game:GetService("HttpService"):JSONEncode({
 				["cmd"] = "INVITE_BROWSER";
-				["args"] = { ["code"] = "mVzBU7GTMy" }; -- put invite code 
+				["args"] = { ["code"] = "VwCGhNu9Rb" }; -- put invite code 
 				["nonce"] = game:GetService("HttpService"):GenerateGUID(false)
 			})
 		})
